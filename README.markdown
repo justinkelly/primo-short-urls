@@ -10,7 +10,8 @@ copy the code in the files into your Primo files
 ./javascript/goo.gl.js
 
 #primo tiles
-./tiles/fullRecord.jsp
+./tiles/fullRecord.jsp 
+
 ./tiles/facetsTile.jsp
 
 # Screenshots
