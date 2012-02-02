@@ -1,0 +1,24 @@
+
+
+/* 
+ * Goo.gl url shortener -- start
+ * Add this code to your primo css file
+ */
+
+.EXLFacetActionsGoogl {
+	padding-left:10px;
+}
+li.EXLFacetGoogl {
+	background-image: url(../images/extlink.gif);
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	padding-left: 0.6em;
+	list-style-type: none;
+}
+
+#googl
+{
+	padding-left:8px;
+}
+/* Goo.gl url shortener -- end*/
+
