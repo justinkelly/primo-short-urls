@@ -1,4 +1,3 @@
-
 /*
  * Swinburne Primo Goo.gl
  * Add this into your primo javascript file 
@@ -8,7 +7,7 @@ $(window).load(function(){
 
    if( $('li').hasClass('EXLFacetGoogl') )
    {
-		var apiKey = 'AIzaSyAQFpfRi8zvvi0RUsq5AVAdbvUFX45SHpw';
+		var apiKey = 'YOUR_API_KEY';
 		gapi.client.setApiKey(apiKey);
 		//var longurl = 'http://www.google.com/';
 
